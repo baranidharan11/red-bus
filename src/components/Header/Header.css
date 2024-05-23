@@ -1,0 +1,49 @@
+.header{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    max-width: 1200px;
+    margin: auto;
+}
+.ś{
+    background-color: #d84e55;
+    display: flex;
+    flex-direction: column;
+    padding: 1em .625rem;
+    background-color: #fff;
+    border-radius: .5rem;
+    margin-right: .75rem;
+    text-align: center;
+    position: relative;
+}
+.header-right{
+    -webkit-text-size-adjust: 100%;
+    --width: 1366;
+    color: #4a4a4a;
+    word-break: break-word;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    user-select: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: flex;
+    margin-left: auto;
+    gap: 1rem;
+    align-items: center;
+    list-style: none;
+}
+.bus-ticket-button{
+    display: flex;
+    flex-direction: column;
+    padding: 1em .625rem;
+    background-color: #fff;
+    border-radius: .5rem;
+    margin-right: .75rem;
+    text-align: center;
+    position: relative;
+    background-color: #d84e55;
+
+}
